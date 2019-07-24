@@ -19,5 +19,5 @@
 - Make 2048 clone
 
 - Make 2 player 2048 clone
-  _ where you can send your biggest number to a random space on opponent's board
-  _ use sockets/netlify functions probably
+  - where you can send your biggest number to a random space on opponent's board
+  - use sockets/netlify functions probably
