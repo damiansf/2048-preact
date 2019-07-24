@@ -2,7 +2,7 @@
 
 - Does what it says on the packaging
 
-## TODO:
+## Pipe dreams:
 
 - Make each tile an object with to/from/value properties so Preact can know where stuff goes on move
 
