@@ -8,6 +8,8 @@
 
 - Make css transitions for moves
 
+- Clean up the translate numbers/seek logic
+
 - Write tests for the game logic
 
 - Write tests for preact component(s)
